@@ -12,6 +12,6 @@ Data we do NOT collect:
 - We do not use analytics or advertising trackers
 
 All data stays on your device and can be deleted at any time 
-from the app's Settings screen.
+from the app.
 
 Contact: virage.appcontact@gmail.com
