@@ -3,7 +3,7 @@ Privacy Policy — Virage
 Last updated: April 2026
 
 Data we collect:
-- Location data: used exclusively for GPS trip tracking on your device
+- Location data: used exclusively for GPS trip tracking on your device. It needs to be always on !
 - Photos: taken optionally at end of trip, stored locally on your device only
 
 Data we do NOT collect:
